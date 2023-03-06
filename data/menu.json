@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Home",
+    "href": "index.html"
+  },
+  {
+    "id": 2,
+    "name": "About",
+    "href": "about.html"
+  },
+  {
+    "id": 3,
+    "name": "Shop",
+    "href": "shop.html"
+  },
+  {
+    "id": 4,
+    "name": "Author",
+    "href": "author.html"
+  }
+]

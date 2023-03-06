@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "name": "Basic (Grey)",
+    "price": {
+      "old": "699.99",
+      "current": "524.99"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-15.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "These glasses have a classic, timeless style and are perfect for anyone looking for a traditional look."
+    },
+    "tagId": 2,
+    "brandId": 1,
+    "rating": 3.4,
+    "discount": 25
+  },
+  {
+    "id": 2,
+    "name": "Advanced (Grey)",
+    "price": {
+      "old": "1207.25",
+      "current": "965.80"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-3.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "Made with high-quality materials, these glasses offer both durability and comfort for long-term wear."
+    },
+    "tagId": 1,
+    "brandId": 2,
+    "rating": 3.4,
+    "discount": 18.33
+  },
+  {
+    "id": 3,
+    "name": "Modern (Grey)",
+    "price": {
+      "old": null,
+      "current": "618.50"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-4.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "With a sleek, modern design, these glasses will elevate any outfit and make a stylish statement."
+    },
+    "tagId": 1,
+    "brandId": 1,
+    "rating": 2.4,
+    "discount": null
+  },
+  {
+    "id": 4,
+    "name": "Elegant (Grey)",
+    "price": {
+      "old": "904.99",
+      "current": "783.99"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-5.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "Lightweight and comfortable, these glasses are ideal for all-day wear without any discomfort."
+    },
+    "tagId": 3,
+    "brandId": 3,
+    "rating": 3.4,
+    "discount": 13.34
+  },
+  {
+    "id": 5,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "556.13",
+      "current": "444.90"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-6.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "Perfect for those who require prescription lenses, these glasses offer both function and style."
+    },
+    "tagId": 1,
+    "brandId": 4,
+    "rating": 4.4,
+    "discount": 20
+  },
+  {
+    "id": 6,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "1115.50",
+      "current": "892.40"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-7.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "The unique pattern on these glasses will make you stand out from the crowd and grab everyone's attention."
+    },
+    "tagId": 2,
+    "brandId": 2,
+    "rating": 4.9,
+    "discount": 20
+  },
+  {
+    "id": 7,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "1199",
+      "current": "892.40"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-8.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "Designed to fit various face shapes and sizes, these glasses provide a comfortable and secure fit."
+    },
+    "tagId": 1,
+    "brandId": 4,
+    "rating": 3.4,
+    "discount": 20
+  },
+  {
+    "id": 8,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "926.81",
+      "current": "755.00"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-9.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "Made with eco-friendly materials, these glasses are perfect for those who are environmentally conscious."
+    },
+    "tagId": 3,
+    "brandId": 3,
+    "rating": 2.0,
+    "discount": 18.52
+  },
+  {
+    "id": 9,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "791.24",
+      "current": "632.99"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-10.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "Featuring an adjustable nose bridge, these glasses can be customized to fit your face perfectly."
+    },
+    "tagId": 1,
+    "brandId": 3,
+    "rating": 4.3,
+    "discount": 20
+  },
+  {
+    "id": 10,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "504.60",
+      "current": "420.50"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-11.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "For those who prefer a minimalist look, these glasses offer a simple yet stylish design."
+    },
+    "tagId": 2,
+    "brandId": 3,
+    "rating": 3.8,
+    "discount": 16.67
+  },
+  {
+    "id": 11,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "949.75",
+      "current": "759.80"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-12.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "These glasses have scratch-resistant lenses to ensure long-lasting clarity and clear vision."
+    },
+    "tagId": 3,
+    "brandId": 3,
+    "rating": 3.1,
+    "discount": 20
+  },
+  {
+    "id": 12,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "701.60",
+      "current": "526.20"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-13.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "Designed to block harmful blue light, these glasses are perfect for those who spend long hours in front of a computer."
+    },
+    "tagId": 2,
+    "brandId": 3,
+    "rating": 1.6,
+    "discount": 25
+  },
+  {
+    "id": 13,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "986.39",
+      "current": "821.99"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-14.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "With a vintage-inspired look, these glasses offer a unique and stylish addition to your wardrobe."
+    },
+    "tagId": 1,
+    "brandId": 3,
+    "rating": 2.4,
+    "discount": 16.67
+  },
+  {
+    "id": 14,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "591.46",
+      "current": "484.20"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-16.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "Featuring polarized lenses, these glasses reduce glare and improve visual clarity for outdoor activities."
+    },
+    "tagId": 3,
+    "brandId": 3,
+    "rating": 4.8,
+    "discount": 18.18
+  },
+  {
+    "id": 15,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "987.61",
+      "current": "877.50"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-17.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "Designed for an active lifestyle, these glasses offer both style and functionality for any sport or activity."
+    },
+    "tagId": 1,
+    "brandId": 3,
+    "rating": 4.1,
+    "discount": 11.11
+  },
+  {
+    "id": 16,
+    "name": "Farenheit (Grey)",
+    "price": {
+      "old": "547.31",
+      "current": "364.99"
+    },
+    "pictures": {
+      "main": {
+        "src": "article-19.jpg",
+        "alt": "article img"
+      }
+    },
+    "description": {
+      "title": "",
+      "text": "With a fun and playful color scheme, these glasses will brighten up any outfit and add a pop of color to your look."
+    },
+    "tagId": 2,
+    "brandId": 3,
+    "rating": 3.6,
+    "discount": 33.34
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Sale",
+    "class": "bg-primary"
+  },
+  {
+    "id": 2,
+    "name": "Featured",
+    "class": "bg-success"
+  },
+  {
+    "id": 3,
+    "name": "New Arrival",
+    "class": "bg-danger"
+  }
+]

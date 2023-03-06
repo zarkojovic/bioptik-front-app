@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Test",
+    "text": "Test paragraph",
+    "button": {
+      "text": "Shop",
+      "href": "shop.html"
+    },
+    "image": {
+      "src": "banner1.jpg",
+      "alt": "cover image"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Test",
+    "text": "Test paragraph",
+    "button": {
+      "text": "Shop",
+      "href": "shop.html"
+    },
+    "image": {
+      "src": "banner2.jpg",
+      "alt": "cover image"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Test",
+    "text": "Test paragraph",
+    "button": {
+      "text": "Shop",
+      "href": "shop.html"
+    },
+    "image": {
+      "src": "banner3.jpg",
+      "alt": "cover image"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Test",
+    "text": "Test paragraph",
+    "button": {
+      "text": "Shop",
+      "href": "shop.html"
+    },
+    "image": {
+      "src": "banner4.jpg",
+      "alt": "cover image"
+    }
+  }
+]
